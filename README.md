@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development (front-end)
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on HTML & CSS
-- 📫 How to reach me???--- here---kuadagershon69@gmail.com
+- 📫 How to reach me kuadagershon69@gmail.com
 
 <!---
 Vals03/Vals03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
